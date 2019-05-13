@@ -15,6 +15,8 @@ namespace holam
 
 						Console.WriteLine("Linea de cambio en el estado");
 						Console.WriteLine("Linea de cambio en las variables globales");
+
+						Console.WriteLine("Linea de cambio en las variables staticas");
         }
     }
 }
