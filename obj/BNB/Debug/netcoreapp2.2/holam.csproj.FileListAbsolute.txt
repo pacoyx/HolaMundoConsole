@@ -1,0 +1,11 @@
+H:\_CarlosBazan\holam\bin\BNB\Debug\netcoreapp2.2\holam.deps.json
+H:\_CarlosBazan\holam\bin\BNB\Debug\netcoreapp2.2\holam.runtimeconfig.json
+H:\_CarlosBazan\holam\bin\BNB\Debug\netcoreapp2.2\holam.runtimeconfig.dev.json
+H:\_CarlosBazan\holam\bin\BNB\Debug\netcoreapp2.2\holam.dll
+H:\_CarlosBazan\holam\bin\BNB\Debug\netcoreapp2.2\holam.pdb
+H:\_CarlosBazan\holam\obj\BNB\Debug\netcoreapp2.2\holam.csprojAssemblyReference.cache
+H:\_CarlosBazan\holam\obj\BNB\Debug\netcoreapp2.2\holam.csproj.CoreCompileInputs.cache
+H:\_CarlosBazan\holam\obj\BNB\Debug\netcoreapp2.2\holam.AssemblyInfoInputs.cache
+H:\_CarlosBazan\holam\obj\BNB\Debug\netcoreapp2.2\holam.AssemblyInfo.cs
+H:\_CarlosBazan\holam\obj\BNB\Debug\netcoreapp2.2\holam.dll
+H:\_CarlosBazan\holam\obj\BNB\Debug\netcoreapp2.2\holam.pdb
